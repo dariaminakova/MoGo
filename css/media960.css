@@ -1,0 +1,118 @@
+@media screen and (max-width: 960px) {
+    /* welcome section */
+
+    .main-title h4 {
+        font-size: 40px;
+    }
+    
+    .main-title h2 {
+        font-size: 60px;
+        line-height: 60px;
+    }
+
+    .menu {
+        display: none;
+    }
+    
+    .white-menu{
+        display: block;
+    }
+
+    .learn-more-buttom {
+        margin: 0 20%;
+    }
+
+    .footer-menu {
+        display: none;
+    }
+
+    /* welcome section */
+
+    /* section Story about us */
+    .row-section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .img-box{
+        margin: 20px 0;
+    }
+
+    /* section Slider */
+
+    .slide-card img{
+        display: none;
+    }
+
+    .slide-show{
+        height: 100%;
+    }
+
+    /* section happy clients */
+
+    .block{
+        display: flex;
+    }
+
+    .happy-clients{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .info{
+        margin: 0;
+        width: auto;
+    }
+
+    .happy-content {
+        height: 100%;
+    }
+
+    /* section some of our work */
+
+    .post-position > img {
+        display: none;
+    }
+
+    .post-text {
+        width: 100%;
+        margin: 30px 3%;
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    /* amazing service */
+       
+    .service-widht {
+        margin: 40px 0;
+    }
+
+    .service-info {
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 0;
+    }
+    /* amazing service */
+
+    /* section Unique design */
+
+    .mobile-img {
+        display: none;
+    }
+
+    /* section azur line */
+
+    .azur-section{
+        height: auto;
+    }
+
+    .numbers {
+        font-size: 50px;
+    }
+
+    .azur-list{
+        padding: 10px 55px;
+    }
+}
